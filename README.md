@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateektri
 - 👀 I’m interested in ... hacking
-- 🌱 I’m currently learning ... electronics engineering
+- 🌱 I’m currently learning ... White hat hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
